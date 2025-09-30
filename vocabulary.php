@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="common.CSS">
+
 <?php
 
 $content = file_get_contents("https://raw.githubusercontent.com/craigdietrich/DIG540/main/02/vocabulary.json");
