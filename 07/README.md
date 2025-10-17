@@ -4,7 +4,7 @@ More with Scalar and and getting started with MySQL databases.
 
 **This Week's Video**
 
-- <>
+- <https://youtu.be/J4gYIFe-M4w>
 
 **Assignment**
 
