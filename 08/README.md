@@ -32,4 +32,4 @@ Part 4: Map items in your Omeka S install:
 - Add map points to your items by either placing a marker on the map or searching for latitude/longitudes.
 - Paste the URL to a mapped item to the "#general" channel in Slack!
 
-**The assignment should be done by Sunday Nov. 2nd.**
+**The assignment should be done by Monday Nov. 3rd.**
