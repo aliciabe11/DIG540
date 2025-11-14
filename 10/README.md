@@ -4,7 +4,7 @@ Install and work with Scalar.
 
 **This Week's Video**
 
-- <>
+- <https://youtu.be/DyJMzDGnJ6Q>
 
 **Assignment**
 
